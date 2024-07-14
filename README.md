@@ -10,4 +10,4 @@ Este é um aplicativo simples de Carrossel de Imagens para Android, projetado pa
 
 ## Exemplo de Uso
 
-![App de Clima](fotodoapp.png)
+![App Carrosel de Imagens](fotodoapp.png)
